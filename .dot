@@ -1,0 +1,12 @@
+for dotfile in dotfiles/.* ; do
+  case $(basename $dotfile) in
+    .)
+      ;;
+    ..)
+      ;;
+    *)
+      ln -sv $(realpath dotfile) $HOME/$(basename $dotfile)
+      ;;
+  esac
+done
+
