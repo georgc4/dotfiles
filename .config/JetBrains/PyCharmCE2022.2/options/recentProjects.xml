@@ -1,0 +1,34 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/anki-stat-scraper">
+          <value>
+            <RecentProjectMetaInfo frameTitle="anki-stat-scraper – __init__.py" projectWorkspaceId="2CdT04JsuKYqMXR3dSiMIvCXyU5">
+              <option name="activationTimestamp" value="1660606017001" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-222.3345.131" />
+              <option name="buildTimestamp" value="1658937872645" />
+              <frame x="10" y="34" width="1420" height="856" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1659131236760" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/anki">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2DPgDuPSuF48VN5Xe6sdsApbdl2">
+              <option name="activationTimestamp" value="1660674655289" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-222.3345.131" />
+              <option name="buildTimestamp" value="1658937898735" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1660606018739" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/anki" />
+  </component>
+</application>

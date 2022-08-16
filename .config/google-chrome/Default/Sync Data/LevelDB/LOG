@@ -1,0 +1,12 @@
+2022/08/16-10:43:54.236 3ba6 Reusing MANIFEST /home/carlos/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/08/16-10:43:54.236 3ba6 Recovering log #46
+2022/08/16-10:43:54.237 3ba6 Reusing old log /home/carlos/.config/google-chrome/Default/Sync Data/LevelDB/000046.log 
+2022/08/16-10:47:56.039 3cf7 Level-0 table #51: started
+2022/08/16-10:47:56.051 3cf7 Level-0 table #51: 125110 bytes OK
+2022/08/16-10:47:56.053 3cf7 Delete type=0 #46
+2022/08/16-11:34:14.575 af7e Level-0 table #53: started
+2022/08/16-11:34:14.585 af7e Level-0 table #53: 129411 bytes OK
+2022/08/16-11:34:14.587 af7e Delete type=0 #50
+2022/08/16-12:21:23.483 f790 Level-0 table #55: started
+2022/08/16-12:21:23.490 f790 Level-0 table #55: 124465 bytes OK
+2022/08/16-12:21:23.493 f790 Delete type=0 #52

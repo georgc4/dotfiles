@@ -1,0 +1,23 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "swipe.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Add OSX-style two-finger multitouch gestures",
+   "icons": {
+      "128": "img/128.png",
+      "16": "img/16.png",
+      "48": "img/48.png",
+      "64": "img/64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC9vleyJ0soSxVE34MZHjYKRmR6kMAvBTUR782O0b5UW2tfDoECBX4RGBuxBwHnaL1N5OndvWhMHNdNzZc5h8YbkZA3K3oLbBkLJhJl2rrxVOOdbMSXA8fbgPqocv22lUEa7naP86mNUjGGp5LtlSiKCIw7S29MkTbisdz6A3764wIDAQAB",
+   "manifest_version": 2,
+   "name": "Swipe Gesture",
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

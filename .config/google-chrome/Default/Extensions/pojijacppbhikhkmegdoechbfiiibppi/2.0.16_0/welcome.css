@@ -1,0 +1,459 @@
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Poppins Regular'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v6/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Poppins Medium'), local('Poppins-Medium'), url(https://fonts.gstatic.com/s/poppins/v6/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(https://fonts.gstatic.com/s/poppins/v6/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+body {
+    background-color: #fff;
+    color: #1f1f1f;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    font-size: 16px
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+* {
+    box-sizing: border-box
+}
+
+section {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 720px;
+    max-height: 800px
+}
+
+.donate-banner {
+    padding: 12px 8px;
+    width: 100%;
+    min-height: 64px;
+    text-align: center;
+    background-color: #1a73e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-decoration: none
+}
+
+.hero {
+    /* min-height: calc(100vh - 64px); */
+    height: auto
+}
+
+.hero .logo {
+    margin-top: 32px;
+    width: 100%;
+    text-align: center
+}
+
+.hero .logo img {
+    width: 128px
+}
+
+.hero .logo .title {
+    margin-top: 36px;
+    letter-spacing: -.5px;
+    font-size: 36px;
+    font-weight: 500
+}
+
+.hero .logo p {
+    font-size: 28px;
+    line-height: 36px;
+    color: #565656;
+    max-width: 480px;
+    margin: 24px auto 48px
+}
+
+.hero .buttonContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 8px 0
+}
+
+.button {
+    background-color: #f7b944;
+    color: #1f1f1f;
+    text-decoration: none;
+    padding: 12px 28px;
+    font-size: 16px;
+    margin: 4px 8px;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 6px;
+    transition: background-color 150ms ease
+}
+
+.button:hover {
+    background-color: #f3b032
+}
+
+.hero .button {
+    padding: 12px 48px
+}
+
+.button[disabled], .guide .stepContainer .button[disabled], .guide .stepContainer .button[disabled]:hover {
+    background-color: #9e9e9e
+}
+
+.hero .downIcon {
+    margin: 48px 0 24px;
+    border: 2px solid #565656;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.hero .downIcon svg {
+    fill: #565656
+}
+
+.guide .stepContainer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow-y: hidden
+}
+
+.guide .guideButtonContainer {
+    display: flex;
+    margin: 36px 0 48px
+}
+
+.guide .stepContainer .guideButtonContainer .button {
+    margin: 0 4px
+}
+
+.guide:nth-child(odd) {
+    background-color: #f7b944
+}
+
+.guide .stepContainer .textContainer {
+    max-width: 600px;
+    margin-top: 56px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.guide .stepContainer .step {
+    font-size: 16px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.guide .stepContainer .text {
+    font-size: 26px;
+    line-height: 34px
+}
+
+.guide .stepContainer .button {
+    margin: 36px 0 48px;
+    background-color: #1a73e8;
+    color: #fff
+}
+
+.guide .stepContainer .button:hover {
+    background-color: #0a63d8
+}
+
+.guide .stepContainer .image {
+    max-width: 1200px;
+    max-height: 520px;
+    width: 80%;
+    height: 100%;
+    background-position: top;
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.08)
+}
+
+.guide .stepContainer .image.device {
+    max-width: 400px;
+    max-height: 580px;
+    box-shadow: none;
+    border-radius: 0
+}
+
+.guide .stepContainer#step0 {
+    justify-content: center
+}
+
+.guide .stepContainer#step0 .iframeContainer {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%
+}
+
+.guide .stepContainer#step0 .iframeContainer iframe {
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1c4cb8;
+}
+
+.guide .stepContainer#step0 {
+    align-items: center;
+    padding: 96px 0
+}
+
+.guide .stepContainer#step0 .videoContainer {
+    display: block;
+    width: 80%;
+    max-width: 960px
+}
+
+.guide .stepContainer#step1 .image {
+    background-image: url(images/s1.webp)
+}
+
+.guide .stepContainer#step2 .image {
+    background-image: url(images/s2.webp)
+}
+
+.guide .stepContainer#step3 .image {
+    margin-top: 64px;
+    background-image: url(images/s3.webp);
+    background-position: bottom;
+    animation: step3image 3.5s infinite
+}
+
+.guide .stepContainer#step3 .text {
+    max-width: 480px
+}
+
+.guide .stepContainer#step4 .image {
+    background-image: url(images/s5.webp)
+}
+
+.guide .stepContainer#step5 .image {
+    margin-top: 64px;
+    background-image: url(images/s6.webp);
+    animation: step5image 3.5s infinite
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 48px 16px;
+    color: #5f6368
+}
+
+.footerContainer {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px
+}
+
+.footerContainer .navItem {
+    display: flex;
+    align-items: center
+}
+
+.footerContainer .navItem a {
+    text-decoration: none;
+    color: #5f6368;
+    margin-right: 16px;
+    font-weight: 400
+}
+
+.footerContainer .navItem .logo {
+    margin-right: 48px;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: -.5px;
+    color: #3a3a3a
+}
+
+.footerContainer .info {
+    font-size: 13px;
+    text-align: right;
+    line-height: 16px
+}
+
+.footerContainer .info a {
+    color: #5f6368;
+    text-decoration: none
+}
+
+.footerContainer .info a:hover {
+    text-decoration: underline
+}
+
+@keyframes step3image {
+    0% {
+        background-image: url(images/s3.webp)
+    }
+    40% {
+        background-image: url(images/s3.webp)
+    }
+    50% {
+        background-image: url(images/s4.webp)
+    }
+    90% {
+        background-image: url(images/s4.webp)
+    }
+    100% {
+        background-image: url(images/s3.webp)
+    }
+}
+
+@keyframes step5image {
+    0% {
+        background-image: url(images/s6.webp)
+    }
+    40% {
+        background-image: url(images/s6.webp)
+    }
+    50% {
+        background-image: url(images/s7.webp)
+    }
+    90% {
+        background-image: url(images/s7.webp)
+    }
+    100% {
+        background-image: url(images/s6.webp)
+    }
+}
+
+@media screen and (max-width: 920px) {
+    section {
+        min-height: initial;
+        height: auto
+    }
+    .guide .stepContainer .image {
+        padding-top: 40%;
+        max-height: 0;
+    }
+    .guide .stepContainer .image.device {
+        padding-top: 52%
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .hero, .stepContainer {
+        padding: 0 24px
+    }
+    .hero .logo {
+        margin-top: 48px
+    }
+    .hero .logo img {
+        width: 96px
+    }
+    .hero .logo .title {
+        font-size: 28px
+    }
+    .hero .logo p {
+        font-size: 30px;
+        margin: 48px auto
+    }
+    .hero .buttonContainer {
+        flex-direction: column
+    }
+    .hero .downIcon {
+        margin: 36px 0
+    }
+    .button {
+        margin: 4px 0
+    }
+    .guide .guideButtonContainer {
+        flex-direction: column
+    }
+    .guide .stepContainer .guideButtonContainer .button {
+        margin: 4px 0;
+        font-size: 15px
+    }
+    .guide .stepContainer .textContainer {
+        margin-top: 36px
+    }
+    .guide .stepContainer .step {
+        font-size: 15px;
+        margin-bottom: 12px
+    }
+    .guide .stepContainer .text {
+        font-size: 20px;
+        line-height: 28px
+    }
+    .guide .stepContainer .image {
+        max-width: 600px;
+        width: 100%;
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px
+    }
+    .guide .stepContainer .image.device {
+        padding-top: 68%
+    }
+    .guide .stepContainer#step5 .image {
+        margin-top: 48px
+    }
+    footer {
+        padding: 36px 16px
+    }
+    .footerContainer, .footerContainer .navItem {
+        flex-direction: column;
+        align-items: flex-start
+    }
+    .footerContainer .navItem .logo {
+        margin-bottom: 24px
+    }
+    .footerContainer .navItem a {
+        margin-bottom: 8px
+    }
+    .footerContainer .info {
+        margin-top: 24px;
+        text-align: left
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .guide .stepContainer .image {
+        padding-top: 58%
+    }
+    .guide .stepContainer .image.device {
+        width: 80%;
+        padding-top: 92%
+    }
+}

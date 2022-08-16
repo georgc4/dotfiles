@@ -1,0 +1,19 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10de784169000165827958600000285950004
+clientId2=10de784169000165827962000000285950005
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/konsole_10de784169000165827962000000285950005_1658279692_679415
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/konsole
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10de784169000165827958600000285950004_1658279692_679559
+restartCommand2=/usr/bin/konsole,-session,10de784169000165827962000000285950005_1658279692_679415
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=carlos
+userId2=carlos

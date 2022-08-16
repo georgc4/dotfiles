@@ -1,0 +1,112 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Annotate">
+      <i c="5" l="1660589089807" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="4" l="1660604534886" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1660604247197" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="459" l="1660606093821" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="31" l="1660605148632" />
+    </e>
+    <e n="EditorDelete">
+      <i c="9" l="1660581955678" />
+    </e>
+    <e n="EditorDown">
+      <i c="464" l="1660604935001" />
+    </e>
+    <e n="EditorEnter">
+      <i c="50" l="1660606097279" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1659131399011" />
+    </e>
+    <e n="EditorLeft">
+      <i c="12" l="1659131322591" />
+    </e>
+    <e n="EditorPaste">
+      <i c="5" l="1660604366065" />
+    </e>
+    <e n="EditorRight">
+      <i c="23" l="1660605018401" />
+    </e>
+    <e n="EditorTab">
+      <i c="9" l="1660604260327" />
+    </e>
+    <e n="EditorUp">
+      <i c="94" l="1660604934199" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1660581768316" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1660606030241" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="3" l="1660581786007" />
+    </e>
+    <e n="Replace">
+      <i c="1" l="1660582264141" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1660583579129" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1660582484151" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1660583562728" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1659131498244" />
+    </e>
+    <e n="Stop">
+      <i c="7" l="1660584332177" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1659131228524" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="5" l="1660554623554" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleHistoryController$MyAction">
+      <i c="15" l="1659131322117" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1660582317218" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleMatchCase">
+      <i c="1" l="1660582289859" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleRegex">
+      <i c="1" l="1660582279425" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleSelectionOnlyAction">
+      <i c="1" l="1660582299735" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="1444" l="1660606098945" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1659131423586" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1660543224312" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1660543202472" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="2" l="1660582245014" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="94" l="1660606066599" />
+    </e>
+  </component>
+</application>

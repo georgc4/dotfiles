@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "src/background.js" ]
+   },
+   "commands": {
+      "hide": {
+         "description": "hide/show controls",
+         "suggested_key": {
+            "default": "Ctrl+M"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "src/hide.js", "src/show.js" ],
+      "matches": [ "http://*.youtube.com/watch?*", "https://*.youtube.com/watch?*" ]
+   } ],
+   "description": "Press Ctrl+M to hide or show the YouTube video player controls.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAstiBxrxvWIflME/xEdwSUysyl9MNlkWWwImKX6zOzbyGCPBLnEY28UBKcxq/ST+w0nPDKuhTjLBZpw2xkhbfo1MNlAnt1uzNSNxYhXNd7K6GbeDtajo3HslCh1qADGR6a2Esu6U4ve6F8bDNW4hZbmkeNWNNfE+1TXriCFoLx6FKKg8Uq5l+Zde7cujZXrkkudOht8pNLSGcjdSljrK9sEXInYYc4L9kBfwXhO86rZuUeYiXGkEN0ANzwddxKlQBJL9fVBU9BraPifkMS5pa0fFYdi/kIl6oLDCrqd3FE6kP1aqfbJA/85wReFVJisJaoLMIm6Me7iHofi5bEu2GbwIDAQAB",
+   "manifest_version": 2,
+   "name": "hyde — hide the YouTube video player controls",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

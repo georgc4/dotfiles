@@ -1,0 +1,26 @@
+[2022-07-27T23:41:23.742Z] Log level: Info
+[2022-07-27T23:41:23.744Z] [info] Validating found git in: git
+[2022-07-27T23:41:23.777Z] [info] Using git 2.37.1 from git
+[2022-07-27T23:41:23.811Z] > git rev-parse --show-toplevel [8ms]
+[2022-07-27T23:41:23.830Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-07-27T23:41:23.840Z] [info] Open repository: /home/carlos/.local/share/Anki2/addons21/anki-stat-scraper
+[2022-07-27T23:41:23.958Z] > git status -z -uall [106ms]
+[2022-07-27T23:41:23.992Z] > git symbolic-ref --short HEAD [5ms]
+[2022-07-27T23:41:24.019Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+[2022-07-27T23:41:24.048Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [17ms]
+[2022-07-27T23:41:24.054Z] > git remote --verbose [11ms]
+[2022-07-27T23:41:24.076Z] > git config --get commit.template [3ms]
+[2022-07-27T23:41:24.103Z] > git status -z -uall [4ms]
+[2022-07-27T23:41:24.118Z] > git symbolic-ref --short HEAD [7ms]
+[2022-07-27T23:41:24.133Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+[2022-07-27T23:41:24.202Z] > git remote --verbose [6ms]
+[2022-07-27T23:41:24.203Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [59ms]
+[2022-07-27T23:41:24.262Z] > git config --get commit.template [6ms]
+[2022-07-27T23:41:24.478Z] > git check-ignore -v -z --stdin [8ms]
+[2022-07-27T23:42:20.455Z] > git check-ignore -v -z --stdin [3ms]
+[2022-07-27T23:42:21.574Z] > git show --textconv :.gitignore [8ms]
+[2022-07-27T23:42:21.576Z] > git ls-files --stage -- /home/carlos/.local/share/Anki2/addons21/anki-stat-scraper/.gitignore [3ms]
+[2022-07-27T23:42:21.584Z] > git cat-file -s c18dd8d83ceed1806b50b0aaa46beb7e335fff13 [2ms]
+[2022-07-27T23:42:21.979Z] > git show --textconv :__init__.py [8ms]
+[2022-07-27T23:42:21.981Z] > git ls-files --stage -- /home/carlos/.local/share/Anki2/addons21/anki-stat-scraper/__init__.py [2ms]
+[2022-07-27T23:42:21.992Z] > git cat-file -s 07cf08cc1c19e29cc33e2cf635ba4e74e0355f37 [1ms]

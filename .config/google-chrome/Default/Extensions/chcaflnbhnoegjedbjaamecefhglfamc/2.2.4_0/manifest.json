@@ -1,0 +1,24 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://account.spacetimestudios.com/starlegends"
+      },
+      "urls": [ "https://account.spacetimestudios.com/starlegends" ]
+   },
+   "description": "Big Lasers, Killer Aliens, & Crazy Robots! Star Legends is a FREE sci-fi desktop and mobile MMO from the makers of Pocket Legends.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCpFcza5iwCTzQycZrlM8h6Uoq6n2yBPUTi+cxCGeVFnt1tsovXcw2Mwc9a2FdOvdSAnhDAmrVi56ugixSPc/9yGEFhCO5Y5eC/CzrC/Mp4tQgnCC2XNV5hHxIZH9Krp6ioppPpqwWSO+165X43/kIepbHQ8RW0PcFS0LvRHe5yVQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "57",
+   "name": "Star Legends",
+   "permissions": [ "unlimitedStorage" ],
+   "requirements": {
+      "3D": {
+         "features": [ "css3d", "webgl" ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.4"
+}

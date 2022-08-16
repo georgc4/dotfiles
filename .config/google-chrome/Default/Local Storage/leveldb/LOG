@@ -1,0 +1,54 @@
+2022/08/16-10:43:54.271 3 Reusing MANIFEST /home/carlos/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/08/16-10:43:54.272 3 Recovering log #76
+2022/08/16-10:43:54.273 3 Reusing old log /home/carlos/.config/google-chrome/Default/Local Storage/leveldb/000076.log 
+2022/08/16-11:31:10.796 e Level-0 table #81: started
+2022/08/16-11:31:10.800 e Level-0 table #81: 17625 bytes OK
+2022/08/16-11:31:10.804 e Delete type=0 #76
+2022/08/16-11:33:09.969 e Level-0 table #83: started
+2022/08/16-11:33:09.975 e Level-0 table #83: 105592 bytes OK
+2022/08/16-11:33:09.978 e Delete type=0 #80
+2022/08/16-11:34:06.296 12 Level-0 table #85: started
+2022/08/16-11:34:06.302 12 Level-0 table #85: 105736 bytes OK
+2022/08/16-11:34:06.305 12 Delete type=0 #82
+2022/08/16-11:34:11.966 e Level-0 table #87: started
+2022/08/16-11:34:11.972 e Level-0 table #87: 118554 bytes OK
+2022/08/16-11:34:11.976 e Delete type=0 #84
+2022/08/16-11:34:11.977 e Compacting 4@0 + 1@1 files
+2022/08/16-11:34:11.997 e Generated table #88@0: 414 keys, 378400 bytes
+2022/08/16-11:34:11.997 e Compacted 4@0 + 1@1 files => 378400 bytes
+2022/08/16-11:34:12.000 e compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/16-11:34:12.001 e Delete type=2 #83
+2022/08/16-11:34:12.001 e Delete type=2 #87
+2022/08/16-11:34:12.001 e Delete type=2 #78
+2022/08/16-11:34:12.002 e Delete type=2 #81
+2022/08/16-11:34:12.002 e Delete type=2 #85
+2022/08/16-11:35:31.606 e Level-0 table #90: started
+2022/08/16-11:35:31.611 e Level-0 table #90: 119438 bytes OK
+2022/08/16-11:35:31.614 e Delete type=0 #86
+2022/08/16-11:42:56.743 e Level-0 table #92: started
+2022/08/16-11:42:56.757 e Level-0 table #92: 124044 bytes OK
+2022/08/16-11:42:56.762 e Delete type=0 #89
+2022/08/16-12:07:17.667 e Level-0 table #94: started
+2022/08/16-12:07:17.680 e Level-0 table #94: 121164 bytes OK
+2022/08/16-12:07:17.684 e Delete type=0 #91
+2022/08/16-12:16:55.817 1f Level-0 table #96: started
+2022/08/16-12:16:55.823 1f Level-0 table #96: 120042 bytes OK
+2022/08/16-12:16:55.828 1f Delete type=0 #93
+2022/08/16-12:16:55.828 1f Compacting 4@0 + 1@1 files
+2022/08/16-12:16:55.848 1f Generated table #97@0: 444 keys, 378883 bytes
+2022/08/16-12:16:55.848 1f Compacted 4@0 + 1@1 files => 378883 bytes
+2022/08/16-12:16:55.851 1f compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/16-12:16:55.852 1f Delete type=2 #92
+2022/08/16-12:16:55.852 1f Delete type=2 #88
+2022/08/16-12:16:55.853 1f Delete type=2 #94
+2022/08/16-12:16:55.853 1f Delete type=2 #96
+2022/08/16-12:16:55.853 1f Delete type=2 #90
+2022/08/16-12:18:55.454 1f Level-0 table #99: started
+2022/08/16-12:18:55.460 1f Level-0 table #99: 119810 bytes OK
+2022/08/16-12:18:55.463 1f Delete type=0 #95
+2022/08/16-12:21:28.042 1f Level-0 table #101: started
+2022/08/16-12:21:28.049 1f Level-0 table #101: 122031 bytes OK
+2022/08/16-12:21:28.053 1f Delete type=0 #98
+2022/08/16-12:22:31.158 1f Level-0 table #103: started
+2022/08/16-12:22:31.171 1f Level-0 table #103: 121339 bytes OK
+2022/08/16-12:22:31.174 1f Delete type=0 #100

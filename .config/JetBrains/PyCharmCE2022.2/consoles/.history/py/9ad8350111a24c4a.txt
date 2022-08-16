@@ -1,0 +1,9 @@
+import subprocess
+-. . -..- - / . -. - .-. -.--
+subprocess.check_call(["pip3","install", "--upgrade", "pip"])
+-. . -..- - / . -. - .-. -.--
+subprocess.chec
+-. . -..- - / . -. - .-. -.--
+subprocess.check_call(["pip3", "install", "mypy", "aqt", "PyQt6"])
+-. . -..- - / . -. - .-. -.--
+pip install pymongo

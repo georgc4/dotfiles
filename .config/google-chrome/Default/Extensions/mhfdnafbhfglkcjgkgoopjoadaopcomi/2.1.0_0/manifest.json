@@ -1,0 +1,23 @@
+{
+   "api_console_project_id": "884026704470",
+   "app": {
+      "launch": {
+         "container": "panel",
+         "height": 700,
+         "web_url": "http://www.demobo.com/slides?cws",
+         "width": 1160
+      },
+      "urls": [ "http://www.demobo.com/slides?cws" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDA8P9tbGYTr0YjD+LgTir+mXFuEHru5aJXeUHrXl4Mk7mQTGo2wXc4/s3vFjVQIUi19kGcVXsAVDmhizy+AVFSKBjci3XgRk125Mi1tFfSlnNPMmvIRYpdhrHiPSp4BhwxCycwWmvMlMnnLH4kgR/x2Wm+cA98YynZ/A3SeK+p1QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.0"
+}

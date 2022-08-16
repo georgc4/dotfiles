@@ -1,0 +1,22 @@
+[2022-07-27T23:39:48.857Z] Log level: Info
+[2022-07-27T23:39:48.859Z] [info] Validating found git in: git
+[2022-07-27T23:39:48.893Z] [info] Using git 2.37.1 from git
+[2022-07-27T23:39:48.941Z] > git rev-parse --show-toplevel [7ms]
+[2022-07-27T23:39:48.961Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-07-27T23:39:48.969Z] [info] Open repository: /home/carlos/.local/share/Anki2/addons21/anki-stat-scraper
+[2022-07-27T23:39:49.033Z] > git status -z -uall [46ms]
+[2022-07-27T23:39:49.069Z] > git symbolic-ref --short HEAD [20ms]
+[2022-07-27T23:39:49.089Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+[2022-07-27T23:39:49.108Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-07-27T23:39:49.119Z] > git remote --verbose [14ms]
+[2022-07-27T23:39:49.145Z] > git config --get commit.template [15ms]
+[2022-07-27T23:39:49.161Z] > git status -z -uall [3ms]
+[2022-07-27T23:39:49.194Z] > git symbolic-ref --short HEAD [3ms]
+[2022-07-27T23:39:49.205Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+[2022-07-27T23:39:49.228Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [11ms]
+[2022-07-27T23:39:49.229Z] > git remote --verbose [3ms]
+[2022-07-27T23:39:49.240Z] > git config --get commit.template [1ms]
+[2022-07-27T23:39:49.385Z] > git show --textconv :__init__.py [8ms]
+[2022-07-27T23:39:49.389Z] > git ls-files --stage -- /home/carlos/.local/share/Anki2/addons21/anki-stat-scraper/__init__.py [5ms]
+[2022-07-27T23:39:49.398Z] > git cat-file -s 07cf08cc1c19e29cc33e2cf635ba4e74e0355f37 [3ms]
+[2022-07-27T23:39:49.518Z] > git check-ignore -v -z --stdin [7ms]

@@ -1,0 +1,26 @@
+{
+   "browser_action": {
+      "default_icon": "assets/huruf.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "styles.css" ],
+      "js": [ "main.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Allows you to set the font and size of Arabic text, making it easy to read.",
+   "icons": {
+      "128": "assets/huruf.png",
+      "16": "assets/huruf.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAknisogQvSsVKnjJcN66dZYx4WfuJFRluJ1Qg0h+fJwLpzbZtXw39+5Z6urJbjovExxV5VbRVhJN2dHdQtdgcbQu9t10ESu33aZKMKCa1FHMVZdkqUbSBfGNnRJH/sBXK+vxOj+MEpTyauXx3DLbw7NlO6WT92O7CbsHXXWJRPNTTzo4j/th0zHSyPit8Bp/hfeBzDSBbgjdKAk7uFvlYr01Wn5VcEz98bZYGfjLmYCLLGqfrBSxX4W80fkXbpXBN46o9EG0aGnVPTlJGassOhWhtq0QEn3saOXuJbTY77qp5gu4jwcxHcgmQMcEgWmXbJOP+FrDrotG/f4j9L4qGLQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "38",
+   "name": "Huruf",
+   "options_page": "popup.html",
+   "permissions": [ "storage" ],
+   "short_name": "Huruf",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1",
+   "web_accessible_resources": [ "main.js", "fonts/*" ]
+}

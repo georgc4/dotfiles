@@ -1,0 +1,6 @@
+2022/08/16-12:35:36.905 125e8 Creating DB /home/carlos/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2022/08/16-12:35:36.911 125e8 Reusing MANIFEST /home/carlos/.config/google-chrome/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/16-12:41:39.812 12ca3 Level-0 table #5: started
+2022/08/16-12:41:39.817 12ca3 Level-0 table #5: 53551 bytes OK
+2022/08/16-12:41:39.820 12ca3 Delete type=0 #3
+2022/08/16-12:41:39.820 12ca3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

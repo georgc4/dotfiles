@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.yvoschaap.com/chainrxn/"
+      },
+      "urls": [ "http://www.yvoschaap.com/chainrxn/" ]
+   },
+   "description": "Create a Chain Reaction of explosions to clear the level!",
+   "icons": {
+      "128": "128128.png",
+      "16": "1616.png",
+      "48": "4848.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvRG4WDpfh9E8t9xUfzBETDR1oJtZlCgTlJ54pi9Eb4LspoCt7Cck+3J/hq687i6NRP4LJ4WQdSLwihyvFyK9tcaRbk7bhWHdVz0wyKqIsOdPz7Bd229GlgExDuVk2dvUQOPmVrU4peELi1fc4k/v9/OBwPjMVMDaidEIjWNXP8QIDAQAB",
+   "manifest_version": 2,
+   "name": "Chain Reaction",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

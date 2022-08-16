@@ -1,0 +1,129 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwsXD4=</entry>
+        <entry encoding="base64">MzYwMA==</entry>
+        <entry encoding="base64">dGVzdEZ1</entry>
+        <entry encoding="base64">KFtBLVpdKyk=</entry>
+        <entry encoding="base64">W0EtWl0r</entry>
+        <entry encoding="base64">X2NhcmRz</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLzM2MDAvMQ==</entry>
+        <entry encoding="base64">JzwsJz5zLyhbQS1aXSspL3NlbGZcLlwxL2c=</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1660554612120">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/anki/pylib/anki/stats.py" timestamp="1660606085092">
+        <mark key="'" line="868" column="19" />
+        <mark key="[" line="935" column="8" />
+        <mark key="]" line="944" column="8" />
+      </file>
+      <file name="$USER_HOME$/anki-stat-scraper/server.py" timestamp="1660583560754">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/anki-stat-scraper/__init__.py" timestamp="1660606099092">
+        <mark key="c" line="69" column="7" />
+        <mark key="'" line="68" column="14" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="44" column="10" filename="$USER_HOME$/anki-stat-scraper/__init__.py" />
+      <jump line="46" column="5" filename="$USER_HOME$/anki-stat-scraper/__init__.py" />
+      <jump line="20" column="14" filename="$USER_HOME$/anki-stat-scraper/__init__.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/anki-stat-scraper/server.py" />
+      <jump line="4" column="4" filename="$USER_HOME$/anki-stat-scraper/server.py" />
+      <jump line="493" column="16" filename="$USER_HOME$/anki/pylib/anki/stats.py" />
+      <jump line="934" column="8" filename="$USER_HOME$/anki/pylib/anki/stats.py" />
+      <jump line="868" column="19" filename="$USER_HOME$/anki/pylib/anki/stats.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIHNlbGYuY29sLmRiLmZpcnN0KAogICAgICAgICAgICBmIiIiCnNlbGVjdApzdW0oY2FzZSB3aGVuIHF1ZXVlPXtRVUVVRV9UWVBFX1JFVn0gYW5kIGl2bCA+PSAyMSB0aGVuIDEgZWxzZSAwIGVuZCksIC0tIG10cgpzdW0oY2FzZSB3aGVuIHF1ZXVlIGluICh7UVVFVUVfVFlQRV9MUk59LHtRVUVVRV9UWVBFX0RBWV9MRUFSTl9SRUxFQVJOfSkgb3IgKHF1ZXVlPXtRVUVVRV9UWVBFX1JFVn0gYW5kIGl2bCA8IDIxKSB0aGVuIDEgZWxzZSAwIGVuZCksIC0tIHluZy9scm4Kc3VtKGNhc2Ugd2hlbiBxdWV1ZT17UVVFVUVfVFlQRV9ORVd9IHRoZW4gMSBlbHNlIDAgZW5kKSwgLS0gbmV3CnN1bShjYXNlIHdoZW4gcXVldWU8e1FVRVVFX1RZUEVfTkVXfSB0aGVuIDEgZWxzZSAwIGVuZCkgLS0gc3VzcApmcm9tIGNhcmRzIHdoZXJlIGRpZCBpbiAlcyIiIgogICAgICAgICAgICAlIHNlbGYuX2xpbWl0KCkKICAgICAgICAp</text>
+      </register>
+      <register name="j" type="4">
+        <text encoding="base64">ampq</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ZGF0YQ==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">Z2V0X2RlZiAgZ2V0X2NhcmRzKCk6</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">X2NhcmRz</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">cmV0dXJuIHNlbGYuY29sLmRiLmZpcnN0KAogICAgICAgICAgICBmIiIiCnNlbGVjdApzdW0oY2FzZSB3aGVuIHF1ZXVlPXtRVUVVRV9UWVBFX1JFVn0gYW5kIGl2bCA+PSAyMSB0aGVuIDEgZWxzZSAwIGVuZCksIC0tIG10cgpzdW0oY2FzZSB3aGVuIHF1ZXVlIGluICh7UVVFVUVfVFlQRV9MUk59LHtRVUVVRV9UWVBFX0RBWV9MRUFSTl9SRUxFQVJOfSkgb3IgKHF1ZXVlPXtRVUVVRV9UWVBFX1JFVn0gYW5kIGl2bCA8IDIxKSB0aGVuIDEgZWxzZSAwIGVuZCksIC0tIHluZy9scm4Kc3VtKGNhc2Ugd2hlbiBxdWV1ZT17UVVFVUVfVFlQRV9ORVd9IHRoZW4gMSBlbHNlIDAgZW5kKSwgLS0gbmV3CnN1bShjYXNlIHdoZW4gcXVldWU8e1FVRVVFX1RZUEVfTkVXfSB0aGVuIDEgZWxzZSAwIGVuZCkgLS0gc3VzcApmcm9tIGNhcmRzIHdoZXJlIGRpZCBpbiAlcyIiIgogICAgICAgICAgICAlIHNlbGYuX2xpbWl0KCkKICAgICAgICAp</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">dG9kYXkgPSBkYXRldGltZS50b2RheSgpCnllc3RlcmRheSA9IHRvZGF5IC0gdGltZWRlbHRhKGRheXM9MSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBwcmludCh4KQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">eCA9IG13LmNvbC5kYi5hbGwoCiAgICAgICAgZiIiIgogICAgc2VsZWN0CiAgICAoY2FzdCgoaWQvMTAwMC4wIC0gPykgLyA4NjQwMC4wIGFzIGludCkpLz8gYXMgZGF5LAogICAgc3VtKGNhc2Ugd2hlbiB0eXBlID0ge1JFVkxPR19MUk59IHRoZW4gMSBlbHNlIDAgZW5kKSwgLS0gbHJuIGNvdW50CiAgICBzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX1JFVn0gYW5kIGxhc3RJdmwgPCAyMSB0aGVuIDEgZWxzZSAwIGVuZCksIC0tIHluZyBjb3VudAogICAgc3VtKGNhc2Ugd2hlbiB0eXBlID0ge1JFVkxPR19SRVZ9IGFuZCBsYXN0SXZsID49IDIxIHRoZW4gMSBlbHNlIDAgZW5kKSwgLS0gbXRyIGNvdW50CiAgICBzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX1JFTFJOfSB0aGVuIDEgZWxzZSAwIGVuZCksIC0tIGxhcHNlIGNvdW50CiAgICBzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX0NSQU19IHRoZW4gMSBlbHNlIDAgZW5kKSwgLS0gY3JhbSBjb3VudAogICAgc3VtKGNhc2Ugd2hlbiB0eXBlID0ge1JFVkxPR19MUk59IHRoZW4gdGltZS8xMDAwLjAgZWxzZSAwIGVuZCkvPywgLS0gbHJuIHRpbWUKICAgIC0tIHluZyArIG10ciB0aW1lCiAgICBzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX1JFVn0gYW5kIGxhc3RJdmwgPCAyMSB0aGVuIHRpbWUvMTAwMC4wIGVsc2UgMCBlbmQpLz8sCiAgICBzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX1JFVn0gYW5kIGxhc3RJdmwgPj0gMjEgdGhlbiB0aW1lLzEwMDAuMCBlbHNlIDAgZW5kKS8/LAogICAgc3VtKGNhc2Ugd2hlbiB0eXBlID0ge1JFVkxPR19SRUxSTn0gdGhlbiB0aW1lLzEwMDAuMCBlbHNlIDAgZW5kKS8/LCAtLSBsYXBzZSB0aW1lCiAgICBzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX0NSQU19IHRoZW4gdGltZS8xMDAwLjAgZWxzZSAwIGVuZCkvPyAtLSBjcmFtIHRpbWUKICAgIGZyb20gcmV2bG9nICVzCiAgICBncm91cCBieSBkYXkgb3JkZXIgYnkgZGF5IiIiCiAgICAgICAgJSAnJywKICAgICAgICBtdy5jb2wuc2NoZWQuZGF5X2N1dG9mZiwKICAgICAgICAxLAogICAgICAgIDEsCiAgICAgICAgMSwKICAgICAgICAxLAogICAgICAgIDEsCiAgICAgICAgMSwKICAgICk=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGNhcmRzLCB0aGV0aW1lLCBmYWlsZWQsIGxybiwgcmV2LCByZWxybiwgZmlsdCA9IG13LmNvbC5kYi5maXJzdChmIiIiCnNlbGVjdCBjb3VudCgpLCBzdW0odGltZSkvMTAwMCwKc3VtKGNhc2Ugd2hlbiBlYXNlID0gMSB0aGVuIDEgZWxzZSAwIGVuZCksIC8qIGZhaWxlZCAqLwpzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX0xSTn0gdGhlbiAxIGVsc2UgMCBlbmQpLCAvKiBsZWFybmluZyAqLwpzdW0oY2FzZSB3aGVuIHR5cGUgPSB7UkVWTE9HX1JFVn0gdGhlbiAxIGVsc2UgMCBlbmQpLCAvKiByZXZpZXcgKi8Kc3VtKGNhc2Ugd2hlbiB0eXBlID0ge1JFVkxPR19SRUxSTn0gdGhlbiAxIGVsc2UgMCBlbmQpLCAvKiByZWxlYXJuICovCnN1bShjYXNlIHdoZW4gdHlwZSA9IHtSRVZMT0dfQ1JBTX0gdGhlbiAxIGVsc2UgMCBlbmQpIC8qIGZpbHRlciAqLwpmcm9tIHJldmxvZyB3aGVyZSBpZCA+ID8gIiIiLCAobXcuY29sLnNjaGVkLmRheV9jdXRvZmYgLSA4NjQwMCkgKiAxMDAwLAogICAgICAgICkKICAgICMgc2hvdyBhIG1lc3NhZ2UgYm94CiAgICAjc2hvd0luZm8oIkNhcmQgY291bnQ6ICVkIiAlIGNhcmRDb3VudCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0KCkK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICByZXQgPSBtdy5jb2wuZGIuZmlyc3QoCiAgICAgICAgIiIiCnNlbGVjdCBjb3VudCgpLCBhYnMobWluKGRheSkpIGZyb20gKHNlbGVjdAooY2FzdCgoaWQvMTAwMCAtID8pIC8gODY0MDAuMCBhcyBpbnQpKzEpIGFzIGRheQpmcm9tIHJldmxvZyAlcwpncm91cCBieSBkYXkgb3JkZXIgYnkgZGF5KSIiIgogICAgICAgICUgJycsCiAgICAgICAgbXcuY29sLnNjaGVkLmRheV9jdXRvZmYsCiAgICApCiAgICBwcHJpbnQocmV0KQ==</text>
+      </register>
+      <register name="7" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHggPSBtdy4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3BlbigncmVwb3J0LnR4dCcsICd3JykgYXMgZjoK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">X2NhcmRz</last-search>
+      <last-substitute encoding="base64">KFtBLVpdKyk=</last-substitute>
+      <last-replace encoding="base64">c2VsZlwuXDE=</last-replace>
+      <last-pattern encoding="base64">X2NhcmRz</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

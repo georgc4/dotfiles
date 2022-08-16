@@ -1,0 +1,111 @@
+[2022-07-27 17:20:20.552] [renderer1] [warning] Error querying extensions gallery {}
+[2022-07-27 17:20:28.911] [renderer1] [error] Server returned 503: Error: Server returned 503
+    at S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:629:22251)
+    at j.queryRawGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:162923)
+    at async j.queryGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:160015)
+    at async j.getExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:156614)
+    at async Co.getExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3165:14782)
+    at async C.getInstallableExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3095:93832)
+    at async C.promptRecommendationsNotification (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3095:90132)
+    at async C.promptWorkspaceRecommendations (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3095:89021)
+    at async v.promptWorkspaceRecommendations (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2131:53436)
+[2022-07-27 17:37:53.434] [renderer1] [error] Error: Server returned 503
+    at S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:629:22251)
+    at j.queryRawGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:162923)
+    at async j.queryGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:160015)
+    at async j.getExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:156614)
+    at async Co.getExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3165:14782)
+    at async ve.getInstallableRecommendations (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:19796)
+    at async ve.getAllRecommendationsModel (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:23116)
+    at async ve.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:7758)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:5973
+[2022-07-27 17:37:53.477] [renderer1] [error] Error: Server returned 503
+    at S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:629:22251)
+    at j.queryRawGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:162923)
+    at async j.queryGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:160015)
+    at async le (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:158985)
+    at async j.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:159225)
+    at async Co.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3165:14158)
+    at async te.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:17092)
+    at async te.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:7758)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:5973
+[2022-07-27 17:37:53.838] [renderer1] [error] Error: Server returned 503
+    at S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:629:22251)
+    at j.queryRawGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:162923)
+    at async j.queryGalleryExtensions (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:160015)
+    at async le (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:158985)
+    at async j.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:803:159225)
+    at async Co.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3165:14158)
+    at async Ie.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:17092)
+    at async Ie.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:7758)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3161:5973
+[2022-08-01 16:48:53.425] [renderer1] [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:282:19)
+    at onErrorNT (node:internal/child_process:477:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[2022-08-15 11:19:28.711] [renderer1] [error] Error: Unable to read file '/home/carlos/anki/qt/aqt/hooks_gen.py' (Unknown (FileSystemError): An unknown error occurred. Please consult the log for more details.)
+    at Object.error (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:20316)
+    at Object.onError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:34057)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:33152
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:31333
+    at Array.forEach (<anonymous>)
+    at E.emitError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:31322)
+    at E.error (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:30983)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:598:30558
+    at b.invoke (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at r.deliver (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at o.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at J (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:3415)
+    at y.onResponse (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:4331)
+    at y.onBuffer (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:4181)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:1817
+    at b.invoke (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at r.deliver (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at o.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at EventEmitter.J (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:80:25580)
+    at EventEmitter.emit (node:events:390:28)
+    at Object.onMessage (node:electron/js2c/renderer_init:69:746)
+[2022-08-15 11:19:37.947] [renderer1] [error] Error: Unable to read file '/home/carlos/anki/qt/aqt/colors.py' (Unknown (FileSystemError): An unknown error occurred. Please consult the log for more details.)
+    at Object.error (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:20316)
+    at Object.onError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:34057)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:33152
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:31333
+    at Array.forEach (<anonymous>)
+    at E.emitError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:31322)
+    at E.error (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:30983)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:598:30558
+    at b.invoke (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at r.deliver (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at o.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at J (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:3415)
+    at y.onResponse (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:4331)
+    at y.onBuffer (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:4181)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:1817
+    at b.invoke (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at r.deliver (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at o.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at EventEmitter.J (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:80:25580)
+    at EventEmitter.emit (node:events:390:28)
+    at Object.onMessage (node:electron/js2c/renderer_init:69:746)
+[2022-08-15 16:21:55.664] [renderer1] [error] Error: Unable to read file '/home/carlos/anki/pylib/anki/stats_pb2.pyi' (Unknown (FileSystemError): An unknown error occurred. Please consult the log for more details.)
+    at Object.error (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:602:20316)
+    at Object.onError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:34057)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:33152
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:31333
+    at Array.forEach (<anonymous>)
+    at E.emitError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:31322)
+    at E.error (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:67:30983)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:598:30558
+    at b.invoke (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at r.deliver (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at o.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at J (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:3415)
+    at y.onResponse (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:4331)
+    at y.onBuffer (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:4181)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:544:1817
+    at b.invoke (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:145)
+    at r.deliver (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:2266)
+    at o.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:82:1844)
+    at EventEmitter.J (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:80:25580)
+    at EventEmitter.emit (node:events:390:28)
+    at Object.onMessage (node:electron/js2c/renderer_init:69:746)

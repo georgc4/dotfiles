@@ -1,0 +1,4 @@
+[2022-07-19 17:41:03.007] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-19 17:41:05.272] [main] [info] Starting extension host with pid 26048 (fork() took 16 ms).
+[2022-07-19 17:42:08.115] [main] [info] Extension host with pid 26048 exited with code: 0, signal: null.
+[2022-07-19 17:42:08.122] [main] [info] Waiting for extension host with pid 26048 to exit.

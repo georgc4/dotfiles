@@ -1,0 +1,248 @@
+/*
+	Font Family Specifications
+*/
+
+/* AMIRI */
+@font-face {
+	font-family: 'Amiri';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/amiri-regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Amiri';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/amiri-bold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Amiri';
+	font-style: italic;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/amiri-slanted.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Amiri';
+	font-style: italic;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/amiri-boldslanted.woff2') format('woff2');
+}
+
+/* AREF RUQAA */
+@font-face {
+	font-family: 'Aref Ruqaa';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/arefruqaa-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Aref Ruqaa';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/arefruqaa-bold.ttf') format('truetype');
+}
+
+/* CAIRO */
+
+@font-face {
+	font-family: 'Cairo';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Cairo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Cairo';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Cairo-Bold.ttf') format('truetype');
+}
+
+/* CHANGA */
+@font-face {
+	font-family: 'Changa';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Changa-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Changa';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Changa-Bold.ttf') format('truetype');
+}
+
+/* DROID ARABIC NASKH */
+@font-face {
+	font-family: 'Droid Arabic Naskh';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/DroidNaskh-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Droid Arabic Naskh';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/DroidNaskh-Bold.woff2') format('woff2');
+}
+
+/* EL MESSIRI */
+@font-face {
+	font-family: 'El Messiri';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/ElMessiri-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'El Messiri';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/ElMessiri-Bold.ttf') format('truetype');
+}
+
+/* Katibeh */
+@font-face {
+	font-family: 'Katibeh';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Katibeh-Regular.ttf') format('truetype');
+}
+
+/* Lalezar */
+@font-face {
+	font-family: 'Lalezar';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Lalezar-Regular.woff2') format('woff2');
+}
+
+/* Lateef */
+@font-face {
+	font-family: 'Lateef';
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/LateefRegOT.ttf') format('truetype'); 
+}
+
+/* Lemondada */
+@font-face {
+	font-family: 'Lemonada';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Lemonada-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Lemonada';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Lemonada-Bold.ttf') format('truetype');
+}
+
+/* Mada */
+@font-face {
+	font-family: 'Mada';
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Mada-Regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Mada';
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Mada-Bold.otf') format('opentype');
+}
+
+/* Mirza */
+@font-face {
+	font-family: 'Mirza';
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Mirza-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Mirza';
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Mirza-Bold.ttf') format('truetype');
+}
+
+/* Scheherazade */
+@font-face {
+	font-family: 'Scheherazade';
+	font-style: normal;
+	font-weight: normal;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Scheherazade-Regular.woff.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Scheherazade';
+	font-style: normal;
+	font-weight: bold;
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/Scheherazade-Bold.woff') format('woff');
+}
+/*
+	Class Specifications
+*/
+
+.ar-huruf {
+	font-size: 110%;
+	margin: 10px, 2px;
+	padding: 0 2px;
+	line-height: 1.9em;
+}
+
+.amiri {
+	font-family: 'Amiri', serif;
+}
+
+.aref-ruqaa {
+	font-family: 'Aref Ruqaa', serif;
+}
+
+.cairo {
+	font-family: 'Cairo', serif;
+}
+
+.changa {
+	font-family: 'Changa', serif;
+}
+
+.droid-arabic-naskh {
+	font-family: 'Droid Arabic Naskh', serif;
+}
+
+.el-messiri {
+	font-family: 'El Messiri', serif;
+}
+
+.katibeh {
+	font-family: 'Katibeh', serif;
+}
+
+.lalezar {
+	font-family: 'Lalezar', serif;
+}
+
+.lateef {
+	font-family: 'Lateef', serif;
+}
+
+.lemonada {
+	font-family: 'Lemonada', serif;
+}
+
+.mada {
+	font-family: 'Mada', serif;
+}
+
+.mirza {
+	font-family: 'Mirza', serif;
+}
+
+.scheherazade {
+	font-family: 'Scheherazade', serif;
+}
